@@ -11,7 +11,6 @@ require 'uri'
 require 'erb'
 
 ENV['WORKSHOP_URL'] = 'https://raw.githubusercontent.com/marekjelen/starter-guides/master/_workshops/java.yml'
-ENV['WORKSHOP_URL_2'] = 'https://raw.githubusercontent.com/openshift-labs/devops-oab-guides/master/_devops-workshop.yml'
 
 class Datastore
 
