@@ -3,4 +3,4 @@ kind: ClusterServiceBroker
 metadata:
   name: summit-broker
 spec:
-  url:  http://broker-myproject.192.168.64.22.nip.io
+  url:  http://broker-brokerdemo.192.168.64.22.nip.io
